@@ -2,7 +2,7 @@
 
 This is my statistics thesis research project, Phylogeny Inference with Animal DNA sequences data, under the supervision of Prof. Larget
 
-This projcet could be categorized to four parts:
+This project could be categorized to four parts:
 
 1.Construct the Maximum-Likelihood phylogenetic trees with GTR, Jukes-Cantor, K2P models with thousands time
 bootstrapping using animal DNA sequences data in MrBayes and RAxML.
